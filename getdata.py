@@ -1,6 +1,5 @@
 import tweepy
 import json
-import Utlis as ut
 import time
 import math
 import os
